@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css?family=Coiny|Karla|Slabo+27px');
+
+body {
+    background-color: lavenderblush;
+}
+
+.page {
+    width: 64vw;
+    height: 100vh;
+    margin: auto;
+    background-color: snow;
+}
+
+.header {
+    width: 100%;
+    background-color: #45ff45;
+}
+
+#elementWindow {
+    width: 100%;
+}

@@ -1,0 +1,28 @@
+body {
+
+}
+
+.contact-form {
+    min-width: 400px;
+    width: 100%;
+}
+
+.form__text-input {
+    font-family: 'Coiny';
+    padding: 1em;
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    width: 20em;
+    border: 1px solid grey;
+}
+
+.form__text-input label {
+    width: 100%;
+    font-size: 1.4em;
+}
+
+.form__text-input input {
+    width: 100%;
+    
+}
