@@ -1,7 +1,8 @@
-@import url('https://fonts.googleapis.com/css?family=Coiny|Karla|Slabo+27px');
+@import url('https://fonts.googleapis.com/css?family=Poppins|Source+Sans+Pro');
 
 body {
     background-color: lavenderblush;
+    font-family: 'Source Sans Pro';
 }
 
 .page {

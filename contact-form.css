@@ -8,21 +8,38 @@ body {
 }
 
 .form__text-input {
-    font-family: 'Coiny';
+    font-family: 'Source Sans Pro';
+    letter-spacing: 0.1em;
     padding: 1em;
     display: flex;
     align-items: center;
     flex-wrap: wrap;
     width: 20em;
-    border: 1px solid grey;
 }
 
 .form__text-input label {
     width: 100%;
     font-size: 1.4em;
+    padding-top: 1em;
 }
 
-.form__text-input input {
+.form__text-input input{
+    font-size: 1em;
     width: 100%;
+    height: 2em;
+    padding: 1em 0.2em;
+    margin-top: 0.6em;
+    box-shadow: none;
     
+}
+
+.form__text-input input:first-of-type {
+    margin-top: 0.2em;
+}
+
+.form__text-input textarea {
+    font-size: 1em;
+    padding: 0.5em 0.2em;
+    margin-top: 0.6em;
+    min-height: 4em;
 }
